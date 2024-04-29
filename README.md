@@ -1,4 +1,4 @@
-# Ehjezli-Front-End
+# Ehjezli
 
 <h2>Problem:</h2>
 Traffic crisis and high traffic volume around An-Najah National University area (New Campus area)/Nablus.
